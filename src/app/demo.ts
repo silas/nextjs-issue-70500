@@ -1,3 +1,3 @@
-const demo = '{"match":"\\b"}';
+const demo = `{"match":"\\b"}`;
 
 export { demo };
